@@ -1,6 +1,6 @@
 # FOOD APP UI
 
-This is my secocnd flutter project. In this project I created a Food UI Application. Please criticism and suggestions, so that I can be better in the future, Thank you..
+This is my second flutter project. In this project I created a Food UI Application. Please criticism and suggestions, so that I can be better in the future, Thank you..
 
 ## Getting Started
 
